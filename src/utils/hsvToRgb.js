@@ -1,5 +1,14 @@
 import {useState, useEffect} from "react";
 
+/**
+ * 
+ * takes a hsv value and returns its RGB
+ * 
+ * @param {Number} h 
+ * @param {Number} s 
+ * @param {Number} v 
+ * @returns {Array} rgb
+ */
 
 const useHsvToRgb = (h, s, v) => {
 

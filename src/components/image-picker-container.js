@@ -111,8 +111,6 @@ export default function ImagePicker() {
         const valueBox = mousePositionInBoxY * (100 / 240);
 
         const saturationBox = mousePositionInBoxX * (100 / 240);
-
-        
         
         if((e.clientY > mousePos.y || e.clientY < mousePos.y) && mousePositionInBoxY <= 240 && mousePositionInBoxY >= 0){//mouse moves up or down
             setHsv(prev => ({...prev, v: Math.ceil(100 - valueBox)}));
@@ -164,7 +162,6 @@ export default function ImagePicker() {
 
     const mouseUpSelector = () => {
         
-
         document.removeEventListener("mousemove", mouseMoveSelector);
         document.removeEventListener("mousemove", mouseUpSelector);
         

@@ -16,7 +16,7 @@ const ColorCodes = ({h, s, v}) => {
                     {rgbCode && <span>{rgbCode[0]}, {rgbCode[1]}, {rgbCode[2]}</span>}
                 </div>
                 <div>
-                    <span style={{fontWeight: "500"}}>HEX</span>
+                    <span style={{fontWeight: "500"}}>HEX </span>
                     {hexCode && <span>{hexCode}</span>}
                 </div>
             </div>

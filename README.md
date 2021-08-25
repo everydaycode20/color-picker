@@ -7,6 +7,6 @@ I started implementing my approach until I found out it was better to use existi
 
 ### Useful resources
 
-https://axonflux.com/handy-rgb-to-hsl-and-rgb-to-hsv-color-model-c
-https://en.wikipedia.org/wiki/HSL_and_HSV#Hue_and_chroma
-https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb
+* https://axonflux.com/handy-rgb-to-hsl-and-rgb-to-hsv-color-model-c
+* https://en.wikipedia.org/wiki/HSL_and_HSV#Hue_and_chroma
+* https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb

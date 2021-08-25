@@ -1,6 +1,6 @@
 # Color Picker-React
 
-![gif](https://user-images.githubusercontent.com/63354464/130674745-78b6d994-7749-42dd-bb92-3d2fb9a7a269.gif)
+![gif](https://user-images.githubusercontent.com/63354464/130706495-71e47ba9-cda4-4b78-aa93-009c490d7c11.gif)
 
 I was curious about how color pickers work behind the scenes, so I made this simple app. 
 I started implementing my approach until I found out it was better to use existing ones like HSV or HSL color mode approaches.
